@@ -119,16 +119,16 @@ The ellipse behaviour illustrates the EKF predict–update cycle directly:
 ![Step 5 scale 2](../analysis/rviz_plots/step5_cov_scale2.png)
 
 **Step 25 — second landmark enters (scale ×2):**
-![Step 25 scale 2](../analysis/plots/rviz_plots/step25_cov_scale2.png)
+![Step 25 scale 2](../analysis/rviz_plots/step25_cov_scale2.png)
 
 **Step 30 — two landmarks correcting (scale ×2):**
-![Step 30 scale 2](../analysis/plots/rviz_plots/step30_cov_scale2.png)
+![Step 30 scale 2](../analysis/rviz_plots/step30_cov_scale2.png)
 
 **Step 184 — covariance minimum (scale ×5):**
-![Step 184 scale 5](../analysis/plots/rviz_plots/rviz_cov_step184_scale_5.png)
+![Step 184 scale 5](../analysis/rviz_plots/rviz_cov_step184_scale_5.png)
 
 **Step 250 — dead-reckoning zone, maximum uncertainty (scale ×5):**
-![Step 250 scale 5](../analysis/plots/rviz_plots/rviz_cov_step250_scale_5.png)
+![Step 250 scale 5](../analysis/rviz_plots/rviz_cov_step250_scale_5.png)
 
 **Step 297 — L0 re-enters, ellipse shrinking (scale ×2):**
-![Step 297 scale 2](../analysis/plots/rviz_plots/step297_cov_scale2.png)
+![Step 297 scale 2](../analysis/rviz_plots/step297_cov_scale2.png)
