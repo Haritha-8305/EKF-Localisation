@@ -116,7 +116,7 @@ The ellipse behaviour illustrates the EKF predict–update cycle directly:
 
 
 **Step 5 — initial correction (scale ×2):**
-![Step 5 scale 2](../analysis/plots/rviz_plots/step5_cov_scale2.png)
+![Step 5 scale 2](../analysis/rviz_plots/step5_cov_scale2.png)
 
 **Step 25 — second landmark enters (scale ×2):**
 ![Step 25 scale 2](../analysis/plots/rviz_plots/step25_cov_scale2.png)
