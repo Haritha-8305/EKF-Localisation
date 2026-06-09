@@ -9,7 +9,7 @@ A from-scratch implementation of an **Extended Kalman Filter (EKF)** for 2D mobi
 <table align="center">
 <tr>
 <td align="center">
-<img src="analysis/plots/ekf_localization1.gif" width="250"><br>
+<img src="analysis/ekf_localization1.gif" width="250"><br>
 <b>Low Noise</b>
 </td>
 
